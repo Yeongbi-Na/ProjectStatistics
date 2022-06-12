@@ -50,5 +50,5 @@
 ![공업통계학_최종 pdf_page_22](https://user-images.githubusercontent.com/61492320/173230635-2e10f067-0abf-457e-9c3d-068568878c46.jpg)
 ![공업통계학_최종 pdf_page_23](https://user-images.githubusercontent.com/61492320/173230637-9a250ad1-373d-455b-b7af-85bfdd45742c.jpg)
 ![공업통계학_최종 pdf_page_24](https://user-images.githubusercontent.com/61492320/173230638-4d5100f7-99ae-405a-8d70-6eb0da237d93.jpg)
-![공업통계학_최종 pdf_page_25](https://user-images.githubusercontent.com/61492320/173230639-ca1c8c74-8977-485d-b18b-59a72fb3b756.jpg)
+
 ![공업통계학_최종 pdf_page_26](https://user-images.githubusercontent.com/61492320/173230641-028788c8-8c34-4f31-a0ef-aab943978dbe.jpg)
