@@ -1,0 +1,20 @@
+서울시 금연구역
+https://www.data.go.kr/tcs/dss/selectStdDataDetailView.do
+
+지도 데이터(격자 100m)_국토정보플랫폼
+http://map.ngii.go.kr/ms/map/NlipMap.do?tabGb=statsMap
+
+대중교통(지하철역, 버스정류장)
+서울열린데이터광장
+
+흡연장소 설문조사_한국보건사회연구원
+https://www.yna.co.kr/view/AKR20190812115400017?input=1195m
+
+간접흡연
+
+음식점 현황
+https://www.data.go.kr/data/3073372/fileData.do
+
+
+구별 연령대별 인구수_2019
+https://data.seoul.go.kr/dataList/10837/S/2/datasetView.do

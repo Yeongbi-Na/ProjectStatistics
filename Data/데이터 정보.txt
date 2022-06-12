@@ -1,0 +1,3 @@
+일반음식점: 한식, 중식, 일식 등 음식류를 조리 및 판매하며, 식사와 함께 음주행위가 허용되는 업소정보
+http://data.seoul.go.kr/dataList/OA-18654/S/1/datasetView.do
+
